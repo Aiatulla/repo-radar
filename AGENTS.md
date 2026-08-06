@@ -9,7 +9,7 @@ A multi-agent code auditing service. A user submits a public Git repository;
 specialised auditors read it in parallel and report typed findings, and each run
 is compared against the previous run of the same repository.
 
-Full detail: [REPO_RADAR.md](REPO_RADAR.md). Architecture and stack:
+Full detail: [README.md](README.md). Architecture and stack:
 [DOCS.md](DOCS.md). Where it is going: [ROADMAP.md](ROADMAP.md).
 
 ## Before you start
